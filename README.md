@@ -38,7 +38,8 @@ years 2000 and 2012. Additionally, we apply linear regression to forecast life e
   - `Year`: 2000 and 2012
   - `Gender`: Male, Female, Both
   - `Life Expectancy`: Number of years
-  - 
+  ![image alt](https://github.com/Melissa-10-10/final-project/blob/cb61b8d3cfbde122274572d72f3ed4ac6216beea/extract.PNG)
+   
 
 ---
 
