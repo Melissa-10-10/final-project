@@ -51,7 +51,7 @@ years 2000 and 2012. Additionally, we apply linear regression to forecast life e
 
 
 -   Visualize life expectancy trends using Power BI.
-  ![image alt](https://github.com/Melissa-10-10/final-project/blob/79f0f280fca0951f22889f6e28524c2d8fb6777d/graph1.PNG)
+  ![image alt](https://github.com/Melissa-10-10/final-project/blob/ff2bb13b600246b96dd949e10c550f48c42790ad/Screenshot%20(192).png)
 
 - Predict life expectancy in 2025 using linear regression.
 
