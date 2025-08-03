@@ -7,18 +7,6 @@ and predictive modeling is done using **Python**.
 
 ---
 
-## 📌 Table of Contents
-
-- [Introduction](#introduction)
-- [Dataset Description](#dataset-description)
-- [Objectives](#objectives)
-- [Tools Used](#tools-used)
-- [Data Preprocessing](#data-preprocessing)
-- [Visualization Dashboard (Power BI)](#visualization-dashboard-power-bi)
-- [Predictive Analysis](#predictive-analysis)
-- [Conclusion](#conclusion)
-- [Screenshot](#screenshot)
-- [Author](#author)
 
 ---
 
@@ -31,19 +19,12 @@ years 2000 and 2012. Additionally, we apply linear regression to forecast life e
 
 ## 📂 Dataset Description
 
-- **Source**: United Nations / UNICEF
-- **Format**: `.csv` converted from Excel
-- **Columns**:
-  - `Country`: Rwanda, Uganda, Zambia, Zimbabwe
-  - `Year`: 2000 and 2012
-  - `Gender`: Male, Female, Both
-  - `Life Expectancy`: Number of years
+
   ![image alt](https://github.com/Melissa-10-10/final-project/blob/cb61b8d3cfbde122274572d72f3ed4ac6216beea/extract.PNG)
    
 
 ---
 
-## 🎯 Objectives
 
 - Clean and transform the raw dataset using Python.
 - Perform exploratory data analysis.
@@ -53,19 +34,17 @@ years 2000 and 2012. Additionally, we apply linear regression to forecast life e
 -   Visualize life expectancy trends using Power BI.
   ![image alt](https://github.com/Melissa-10-10/final-project/blob/ff2bb13b600246b96dd949e10c550f48c42790ad/Screenshot%20(192).png)
 
-- Predict life expectancy in 2025 using linear regression.
+
 
 
 ---
 
-## 🛠️ Tools Used
+
 
 - Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
 - ![image alt](https://github.com/Melissa-10-10/final-project/blob/e9c7640aefead1e24769867f39e80394e7752a86/plot%20style.PNG)
 - ![image alt](https://github.com/Melissa-10-10/final-project/blob/92b46f50b4820ca113ffe159d6641c8f00324a3c/scikit.PNG)
-- Jupyter Notebook
-- Power BI Desktop
-- GitHub for version control and presentation
+
 
 ---
 
@@ -74,7 +53,7 @@ years 2000 and 2012. Additionally, we apply linear regression to forecast life e
 - Converted data types (e.g., year to int)
 - Grouped by country and year
 - Filtered to focus on "Both sexes" values
-- Exported cleaned data to `.csv` for Power BI use
+
   ![image alt](https://github.com/Melissa-10-10/final-project/blob/a3cd297269587c81b4860e6986b3400f04ac4796/Clear.PNG)
 
 ---
@@ -86,17 +65,8 @@ The Power BI dashboard includes:
   ![image alt](https://github.com/Melissa-10-10/final-project/blob/4ca129d1cbed8abfec2a6330a135410bc4619d3f/graph2.PNG)
 - Line chart showing life expectancy trends over time
   ![image alt](https://github.com/Melissa-10-10/final-project/blob/519df3f91f91da6e3e5ae3da39e5e6f9b943fe36/graph1.PNG)
-- Card displaying predicted life expectancy in 2025
-- Slicer for dynamic filtering by year or country
 
 ---
-
-## 🖼️ Screenshot
-
-> 🔽 **Insert your Power BI dashboard image below**
-> Upload the image in GitHub and replace the link below:
-
-![Power BI Dashboard Screenshot](https://github.com/yourusername/yourrepo/blob/main/dashboard.png)
 
 ---
 
@@ -123,10 +93,8 @@ This project demonstrates how health-related data can be cleaned, analyzed, and 
 
 ## 👤 Author
 
-- **Name**: Kamanzi Mely
+- **Name**: Sangwa Kamanzi Melissa
 - **Course**: Introduction to Big Data Analytics (INSY 8413)
-- **Institution**: [Insert Your Institution]
-- **Supervisor**: [Insert Supervisor Name, if applicable]
 
 ---
 
