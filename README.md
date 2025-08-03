@@ -84,6 +84,7 @@ years 2000 and 2012. Additionally, we apply linear regression to forecast life e
 The Power BI dashboard includes:
 - Bar chart comparing life expectancy across countries and years
 - Line chart showing life expectancy trends over time
+  ![image alt](https://github.com/Melissa-10-10/final-project/blob/519df3f91f91da6e3e5ae3da39e5e6f9b943fe36/graph1.PNG)
 - Card displaying predicted life expectancy in 2025
 - Slicer for dynamic filtering by year or country
 
