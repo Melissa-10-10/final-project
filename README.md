@@ -47,8 +47,12 @@ years 2000 and 2012. Additionally, we apply linear regression to forecast life e
 
 - Clean and transform the raw dataset using Python.
 - Perform exploratory data analysis.
-- Visualize life expectancy trends using Power BI.
+   ![image alt](https://github.com/Melissa-10-10/final-project/blob/fc6b2023891a6d9f6fd06463bf19101da54d0932/describe.PNG)
+
+
+-   Visualize life expectancy trends using Power BI.
 - Predict life expectancy in 2025 using linear regression.
+
 
 ---
 
