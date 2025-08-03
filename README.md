@@ -62,6 +62,7 @@ years 2000 and 2012. Additionally, we apply linear regression to forecast life e
 
 - Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
 - ![image alt](https://github.com/Melissa-10-10/final-project/blob/e9c7640aefead1e24769867f39e80394e7752a86/plot%20style.PNG)
+- ![image alt](https://github.com/Melissa-10-10/final-project/blob/92b46f50b4820ca113ffe159d6641c8f00324a3c/scikit.PNG)
 - Jupyter Notebook
 - Power BI Desktop
 - GitHub for version control and presentation
