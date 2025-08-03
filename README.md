@@ -71,11 +71,11 @@ years 2000 and 2012. Additionally, we apply linear regression to forecast life e
 
 ## 🧹 Data Preprocessing
 
-- Removed unnecessary columns (`Value Footnotes`)
 - Converted data types (e.g., year to int)
 - Grouped by country and year
 - Filtered to focus on "Both sexes" values
-- Exported cleaned data and prediction results to `.csv` for Power BI use
+- Exported cleaned data to `.csv` for Power BI use
+  ![image alt](https://github.com/Melissa-10-10/final-project/blob/a3cd297269587c81b4860e6986b3400f04ac4796/Clear.PNG)
 
 ---
 
