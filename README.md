@@ -68,20 +68,6 @@ The Power BI dashboard includes:
 
 ---
 
----
-
-## 📊 Predictive Analysis
-
-A simple linear regression model was trained using `Year` as the independent variable and `Life Expectancy` as the dependent variable. The model predicted the life expectancy in the year 2025 for each country.
-
-Example prediction:
-
-| Country  | Year | Predicted Life Expectancy |
-|----------|------|----------------------------|
-| Rwanda   | 2025 | 73                         |
-| Uganda   | 2025 | 64                         |
-| Zambia   | 2025 | 64                         |
-| Zimbabwe | 2025 | 65                         |
 
 ---
 
